@@ -32,6 +32,7 @@ let
       ./modules/11
       ./modules/9
       ./modules/apps/auditor.nix
+      ./modules/apps/aurora-store.nix
       ./modules/apps/chromium.nix
       ./modules/apps/fdroid.nix
       ./modules/apps/prebuilt.nix
