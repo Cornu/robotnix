@@ -6,6 +6,8 @@ rec {
 
   fdroid = callPackage ./fdroid {};
 
+  aurora-store = callPackage ./aurora-store {};
+
   seedvault = callPackage ./seedvault {};
 
   # Chromium-based browsers
